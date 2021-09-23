@@ -17,4 +17,6 @@
 
 * [LinkedIn](linkedin.com/in/nicholas-mitchell-56b129220)
 
-* [GitHub](https://github.com/nmitchell313)
+* [Hello World: Java console application](https://github.com/nmitchell313/Hello-world-java)
+
+* [Hello World: Android app](https://github.com/nmitchell313/hello-world-android)
