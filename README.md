@@ -18,7 +18,3 @@
 * [LinkedIn](linkedin.com/in/nicholas-mitchell-56b129220)
 
 * [GitHub](https://github.com/nmitchell313)
-
-> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
->
-> Every line (blank or not) of a blockquote begins with `>`, followed by a space.
