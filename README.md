@@ -14,3 +14,7 @@
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](linkedin.com/in/nicholas-mitchell-56b129220)
+
+* [GitHub](https://github.com/nmitchell313)
